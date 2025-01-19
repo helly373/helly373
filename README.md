@@ -8,7 +8,8 @@
 
 
 ## Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=helly373&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=helly373&theme=react-dark&hide_border=true&area=true)
+
 
 
 
