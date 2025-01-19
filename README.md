@@ -7,6 +7,7 @@
 - ⚡ Fun fact: My code works 99% of the time... that 1% is for cosmic mysteries.
 
 
+## Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=helly373&theme=react-dark&hide_border=true&area=true)
 
 
