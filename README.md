@@ -6,6 +6,9 @@
 - 📫 How to reach me hellychauhan37@gmail.com
 - ⚡ Fun fact: My code works 99% of the time... that 1% is for cosmic mysteries.
 
-#GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helly373&show_icons=true&theme=radical)
+
+## Top Languages 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helly373&layout=compact&theme=radical)
+
