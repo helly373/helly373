@@ -7,10 +7,6 @@
 - ⚡ Fun fact: My code works 99% of the time... that 1% is for cosmic mysteries.
 
 
-## Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=helly373&theme=react-dark&hide_border=true&area=true)
-
-
 
 
 ## Top Languages 
